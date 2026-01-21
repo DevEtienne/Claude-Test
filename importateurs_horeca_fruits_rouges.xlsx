@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <Styles>
+  <Style ss:ID="Header">
+   <Font ss:Bold="1" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#0066CC" ss:Pattern="Solid"/>
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+  </Style>
+  <Style ss:ID="Default">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Importateurs HORECA">
+  <Table>
+   <Column ss:Width="220"/>
+   <Column ss:Width="90"/>
+   <Column ss:Width="110"/>
+   <Column ss:Width="300"/>
+   <Column ss:Width="180"/>
+   <Column ss:Width="130"/>
+   <Column ss:Width="250"/>
+   <Row ss:Height="25">
+    <Cell ss:StyleID="Header"><Data ss:Type="String">Nom de l'entreprise</Data></Cell>
+    <Cell ss:StyleID="Header"><Data ss:Type="String">Pays</Data></Cell>
+    <Cell ss:StyleID="Header"><Data ss:Type="String">Ville</Data></Cell>
+    <Cell ss:StyleID="Header"><Data ss:Type="String">Spécialités</Data></Cell>
+    <Cell ss:StyleID="Header"><Data ss:Type="String">Certifications</Data></Cell>
+    <Cell ss:StyleID="Header"><Data ss:Type="String">Téléphone</Data></Cell>
+    <Cell ss:StyleID="Header"><Data ss:Type="String">Email</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Fruits Premium SA</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Belgique</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Bruxelles</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Fraises, Framboises, Myrtilles premium</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Bio Premium EU</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+32 2 555 1234</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">contact@fruitspremium.be</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Belberry Import BVBA</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Belgique</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Anvers</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Cassis, Groseilles, Airelles</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">GlobalGAP Premium</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+32 3 555 2345</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">info@belberry.be</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Les Fruits Rouges de France</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">France</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Paris</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Fraises Mara des Bois, Framboises</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Label Rouge, IGP</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+33 1 45 67 89 01</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">commercial@fruitsrougesfr.fr</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Bordeaux Berry Trading</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">France</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Bordeaux</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Myrtilles, Cassis premium</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Bio France</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+33 5 56 78 90 12</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">contact@bordeauxberry.fr</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Lyon Premium Fruits</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">France</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Lyon</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Framboises, Fraises des bois</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Label Rouge</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+33 4 78 90 12 34</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">export@lyonpremiumfruits.fr</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Swiss Berry Import AG</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Suisse</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Genève</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Fraises, Myrtilles biologiques</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Swiss Premium, Bio Suisse</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+41 22 345 6789</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">info@swissberry.ch</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zürich Fruits Elite</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Suisse</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zürich</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Framboises sauvages, Cassis</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Bio Suisse</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+41 44 234 5678</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">sales@zurichfruits.ch</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Holland Premium Berries BV</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Pays-Bas</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Amsterdam</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Fraises premium, Framboises</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">GlobalGAP Premium</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+31 20 123 4567</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">info@hollandberries.nl</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Rotterdam Red Fruits</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Pays-Bas</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Rotterdam</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Myrtilles, Groseilles</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">EU Organic Premium</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+31 10 234 5678</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">export@rotterdamredfruits.nl</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nordic Berry Import AS</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Norvège</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Oslo</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Airelles, Myrtilles sauvages</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nordic Premium</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+47 22 34 56 78</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">contact@nordicberry.no</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Oslo Premium Fruits</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Norvège</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Oslo</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Framboises arctiques, Cassis</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Organic Norway</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+47 23 45 67 89</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">info@oslopremium.no</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Swedish Berry Trading AB</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Suède</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Stockholm</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Airelles, Myrtilles nordiques</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">KRAV Premium</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+46 8 123 4567</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">sales@swedishberry.se</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Göteborg Red Fruits</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Suède</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Göteborg</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Fraises, Framboises premium</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">EU Organic</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+46 31 234 5678</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">contact@goteborgfruits.se</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Luxembourg Premium Import</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Luxembourg</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Luxembourg</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Fraises, Myrtilles premium</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Bio EU Premium</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+352 27 12 34 56</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">info@luxpremium.lu</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Alpine Berries Sarl</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">France</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Grenoble</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Framboises alpines, Myrtilles</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Label Rouge, Bio</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">+33 4 76 12 34 56</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">export@alpineberries.fr</Data></Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>
